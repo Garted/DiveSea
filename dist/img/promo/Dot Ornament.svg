@@ -1,81 +1,114 @@
-<svg width="120" height="193" viewBox="0 0 120 193" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="Dot Ornament" opacity="0.5">
-<rect id="Rectangle 3" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy" x="18.9062" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 2" x="37.8145" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 3" x="56.7217" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 4" x="75.6279" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 5" x="94.5361" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 6" x="113.443" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 19" y="18.9377" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 18" x="18.9062" y="18.9377" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 17" x="37.8145" y="18.9377" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 16" x="56.7217" y="18.9377" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 15" x="75.6279" y="18.9377" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 14" x="94.5361" y="18.9377" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 13" x="113.443" y="18.9377" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 29" y="37.8765" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 28" x="18.9062" y="37.8765" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 27" x="37.8145" y="37.8765" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 26" x="56.7217" y="37.8765" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 25" x="75.6279" y="37.8765" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 24" x="94.5361" y="37.8765" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 23" x="113.443" y="37.8765" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 39" y="56.8152" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 38" x="18.9062" y="56.8152" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 37" x="37.8145" y="56.8152" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 36" x="56.7217" y="56.8152" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 35" x="75.6279" y="56.8152" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 34" x="94.5361" y="56.8152" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 33" x="113.443" y="56.8152" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 49" y="75.7527" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 48" x="18.9062" y="75.7527" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 47" x="37.8145" y="75.7527" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 46" x="56.7217" y="75.7527" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 45" x="75.6279" y="75.7527" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 44" x="94.5361" y="75.7527" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 43" x="113.443" y="75.7527" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 59" y="94.6914" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 58" x="18.9062" y="94.6914" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 57" x="37.8145" y="94.6914" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 56" x="56.7217" y="94.6914" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 55" x="75.6279" y="94.6914" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 54" x="94.5361" y="94.6914" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 53" x="113.443" y="94.6914" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 69" y="113.629" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 68" x="18.9062" y="113.629" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 67" x="37.8145" y="113.629" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 66" x="56.7217" y="113.629" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 65" x="75.6279" y="113.629" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 64" x="94.5361" y="113.629" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 63" x="113.443" y="113.629" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 79" y="132.567" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 78" x="18.9062" y="132.568" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 77" x="37.8145" y="132.568" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 76" x="56.7217" y="132.568" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 75" x="75.6279" y="132.568" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 74" x="94.5361" y="132.568" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 73" x="113.443" y="132.568" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 89" y="151.506" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 88" x="18.9062" y="151.506" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 87" x="37.8145" y="151.506" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 86" x="56.7217" y="151.506" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 85" x="75.6279" y="151.506" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 84" x="94.5361" y="151.506" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 83" x="113.443" y="151.506" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 99" y="170.443" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 98" x="18.9062" y="170.443" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 97" x="37.8145" y="170.443" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 96" x="56.7217" y="170.443" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 95" x="75.6279" y="170.443" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 94" x="94.5361" y="170.443" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 93" x="113.443" y="170.443" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 109" y="189.382" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 108" x="18.9062" y="189.383" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 107" x="37.8145" y="189.383" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 106" x="56.7217" y="189.383" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 105" x="75.6279" y="189.383" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 104" x="94.5361" y="189.383" width="2.83607" height="2.84073" fill="black"/>
-<rect id="Rectangle 3 Copy 103" x="113.443" y="189.383" width="2.83607" height="2.84073" fill="black"/>
+<svg width="193" height="173" viewBox="0 0 193 173" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Dot Ornament" opacity="0.7">
+<rect id="Rectangle 3" y="173" width="2.83607" height="2.84073" transform="rotate(-90 0 173)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy" y="154.094" width="2.83607" height="2.84073" transform="rotate(-90 0 154.094)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 2" y="135.186" width="2.83607" height="2.84073" transform="rotate(-90 0 135.186)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 3" y="116.278" width="2.83607" height="2.84073" transform="rotate(-90 0 116.278)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 4" y="97.3717" width="2.83607" height="2.84073" transform="rotate(-90 0 97.3717)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 5" y="78.464" width="2.83607" height="2.84073" transform="rotate(-90 0 78.464)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 6" y="59.5569" width="2.83607" height="2.84073" transform="rotate(-90 0 59.5569)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 7" y="40.6494" width="2.83607" height="2.84073" transform="rotate(-90 0 40.6494)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 8" y="21.7423" width="2.83607" height="2.84073" transform="rotate(-90 0 21.7423)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 9" y="2.83618" width="2.83607" height="2.84073" transform="rotate(-90 0 2.83618)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 19" x="18.9375" y="173" width="2.83607" height="2.84073" transform="rotate(-90 18.9375 173)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 18" x="18.9375" y="154.094" width="2.83607" height="2.84073" transform="rotate(-90 18.9375 154.094)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 17" x="18.9375" y="135.186" width="2.83607" height="2.84073" transform="rotate(-90 18.9375 135.186)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 16" x="18.9375" y="116.278" width="2.83607" height="2.84073" transform="rotate(-90 18.9375 116.278)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 15" x="18.9375" y="97.3717" width="2.83607" height="2.84073" transform="rotate(-90 18.9375 97.3717)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 14" x="18.9375" y="78.464" width="2.83607" height="2.84073" transform="rotate(-90 18.9375 78.464)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 13" x="18.9375" y="59.5569" width="2.83607" height="2.84073" transform="rotate(-90 18.9375 59.5569)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 12" x="18.9375" y="40.6494" width="2.83607" height="2.84073" transform="rotate(-90 18.9375 40.6494)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 11" x="18.9375" y="21.7423" width="2.83607" height="2.84073" transform="rotate(-90 18.9375 21.7423)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 10" x="18.9375" y="2.83618" width="2.83607" height="2.84073" transform="rotate(-90 18.9375 2.83618)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 29" x="37.877" y="173" width="2.83607" height="2.84073" transform="rotate(-90 37.877 173)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 28" x="37.877" y="154.094" width="2.83607" height="2.84073" transform="rotate(-90 37.877 154.094)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 27" x="37.877" y="135.186" width="2.83607" height="2.84073" transform="rotate(-90 37.877 135.186)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 26" x="37.877" y="116.278" width="2.83607" height="2.84073" transform="rotate(-90 37.877 116.278)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 25" x="37.877" y="97.3717" width="2.83607" height="2.84073" transform="rotate(-90 37.877 97.3717)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 24" x="37.877" y="78.464" width="2.83607" height="2.84073" transform="rotate(-90 37.877 78.464)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 23" x="37.877" y="59.5569" width="2.83607" height="2.84073" transform="rotate(-90 37.877 59.5569)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 22" x="37.877" y="40.6494" width="2.83607" height="2.84073" transform="rotate(-90 37.877 40.6494)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 21" x="37.877" y="21.7423" width="2.83607" height="2.84073" transform="rotate(-90 37.877 21.7423)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 20" x="37.877" y="2.83618" width="2.83607" height="2.84073" transform="rotate(-90 37.877 2.83618)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 39" x="56.8154" y="173" width="2.83607" height="2.84073" transform="rotate(-90 56.8154 173)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 38" x="56.8154" y="154.094" width="2.83607" height="2.84073" transform="rotate(-90 56.8154 154.094)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 37" x="56.8154" y="135.186" width="2.83607" height="2.84073" transform="rotate(-90 56.8154 135.186)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 36" x="56.8154" y="116.278" width="2.83607" height="2.84073" transform="rotate(-90 56.8154 116.278)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 35" x="56.8154" y="97.3717" width="2.83607" height="2.84073" transform="rotate(-90 56.8154 97.3717)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 34" x="56.8154" y="78.464" width="2.83607" height="2.84073" transform="rotate(-90 56.8154 78.464)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 33" x="56.8154" y="59.5569" width="2.83607" height="2.84073" transform="rotate(-90 56.8154 59.5569)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 32" x="56.8154" y="40.6494" width="2.83607" height="2.84073" transform="rotate(-90 56.8154 40.6494)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 31" x="56.8154" y="21.7423" width="2.83607" height="2.84073" transform="rotate(-90 56.8154 21.7423)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 30" x="56.8154" y="2.83618" width="2.83607" height="2.84073" transform="rotate(-90 56.8154 2.83618)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 49" x="75.7529" y="173" width="2.83607" height="2.84073" transform="rotate(-90 75.7529 173)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 48" x="75.7529" y="154.094" width="2.83607" height="2.84073" transform="rotate(-90 75.7529 154.094)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 47" x="75.7529" y="135.186" width="2.83607" height="2.84073" transform="rotate(-90 75.7529 135.186)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 46" x="75.7529" y="116.278" width="2.83607" height="2.84073" transform="rotate(-90 75.7529 116.278)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 45" x="75.7529" y="97.3717" width="2.83607" height="2.84073" transform="rotate(-90 75.7529 97.3717)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 44" x="75.7529" y="78.464" width="2.83607" height="2.84073" transform="rotate(-90 75.7529 78.464)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 43" x="75.7529" y="59.5569" width="2.83607" height="2.84073" transform="rotate(-90 75.7529 59.5569)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 42" x="75.7529" y="40.6494" width="2.83607" height="2.84073" transform="rotate(-90 75.7529 40.6494)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 41" x="75.7529" y="21.7423" width="2.83607" height="2.84073" transform="rotate(-90 75.7529 21.7423)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 40" x="75.7529" y="2.83618" width="2.83607" height="2.84073" transform="rotate(-90 75.7529 2.83618)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 59" x="94.6914" y="173" width="2.83607" height="2.84073" transform="rotate(-90 94.6914 173)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 58" x="94.6914" y="154.094" width="2.83607" height="2.84073" transform="rotate(-90 94.6914 154.094)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 57" x="94.6914" y="135.186" width="2.83607" height="2.84073" transform="rotate(-90 94.6914 135.186)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 56" x="94.6914" y="116.278" width="2.83607" height="2.84073" transform="rotate(-90 94.6914 116.278)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 55" x="94.6914" y="97.3717" width="2.83607" height="2.84073" transform="rotate(-90 94.6914 97.3717)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 54" x="94.6914" y="78.464" width="2.83607" height="2.84073" transform="rotate(-90 94.6914 78.464)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 53" x="94.6914" y="59.5569" width="2.83607" height="2.84073" transform="rotate(-90 94.6914 59.5569)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 52" x="94.6914" y="40.6494" width="2.83607" height="2.84073" transform="rotate(-90 94.6914 40.6494)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 51" x="94.6914" y="21.7423" width="2.83607" height="2.84073" transform="rotate(-90 94.6914 21.7423)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 50" x="94.6914" y="2.83618" width="2.83607" height="2.84073" transform="rotate(-90 94.6914 2.83618)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 69" x="113.629" y="173" width="2.83607" height="2.84073" transform="rotate(-90 113.629 173)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 68" x="113.629" y="154.094" width="2.83607" height="2.84073" transform="rotate(-90 113.629 154.094)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 67" x="113.629" y="135.186" width="2.83607" height="2.84073" transform="rotate(-90 113.629 135.186)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 66" x="113.629" y="116.278" width="2.83607" height="2.84073" transform="rotate(-90 113.629 116.278)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 65" x="113.629" y="97.3717" width="2.83607" height="2.84073" transform="rotate(-90 113.629 97.3717)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 64" x="113.629" y="78.464" width="2.83607" height="2.84073" transform="rotate(-90 113.629 78.464)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 63" x="113.629" y="59.5569" width="2.83607" height="2.84073" transform="rotate(-90 113.629 59.5569)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 62" x="113.629" y="40.6494" width="2.83607" height="2.84073" transform="rotate(-90 113.629 40.6494)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 61" x="113.629" y="21.7423" width="2.83607" height="2.84073" transform="rotate(-90 113.629 21.7423)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 60" x="113.629" y="2.83618" width="2.83607" height="2.84073" transform="rotate(-90 113.629 2.83618)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 79" x="132.566" y="173" width="2.83607" height="2.84073" transform="rotate(-90 132.566 173)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 78" x="132.568" y="154.094" width="2.83607" height="2.84073" transform="rotate(-90 132.568 154.094)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 77" x="132.568" y="135.186" width="2.83607" height="2.84073" transform="rotate(-90 132.568 135.186)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 76" x="132.568" y="116.278" width="2.83607" height="2.84073" transform="rotate(-90 132.568 116.278)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 75" x="132.568" y="97.3717" width="2.83607" height="2.84073" transform="rotate(-90 132.568 97.3717)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 74" x="132.568" y="78.464" width="2.83607" height="2.84073" transform="rotate(-90 132.568 78.464)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 73" x="132.568" y="59.5569" width="2.83607" height="2.84073" transform="rotate(-90 132.568 59.5569)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 72" x="132.568" y="40.6494" width="2.83607" height="2.84073" transform="rotate(-90 132.568 40.6494)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 71" x="132.568" y="21.7423" width="2.83607" height="2.84073" transform="rotate(-90 132.568 21.7423)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 70" x="132.568" y="2.83618" width="2.83607" height="2.84073" transform="rotate(-90 132.568 2.83618)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 89" x="151.506" y="173" width="2.83607" height="2.84073" transform="rotate(-90 151.506 173)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 88" x="151.506" y="154.094" width="2.83607" height="2.84073" transform="rotate(-90 151.506 154.094)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 87" x="151.506" y="135.186" width="2.83607" height="2.84073" transform="rotate(-90 151.506 135.186)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 86" x="151.506" y="116.278" width="2.83607" height="2.84073" transform="rotate(-90 151.506 116.278)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 85" x="151.506" y="97.3717" width="2.83607" height="2.84073" transform="rotate(-90 151.506 97.3717)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 84" x="151.506" y="78.464" width="2.83607" height="2.84073" transform="rotate(-90 151.506 78.464)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 83" x="151.506" y="59.5569" width="2.83607" height="2.84073" transform="rotate(-90 151.506 59.5569)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 82" x="151.506" y="40.6494" width="2.83607" height="2.84073" transform="rotate(-90 151.506 40.6494)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 81" x="151.506" y="21.7423" width="2.83607" height="2.84073" transform="rotate(-90 151.506 21.7423)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 80" x="151.506" y="2.83618" width="2.83607" height="2.84073" transform="rotate(-90 151.506 2.83618)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 99" x="170.443" y="173" width="2.83607" height="2.84073" transform="rotate(-90 170.443 173)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 98" x="170.443" y="154.094" width="2.83607" height="2.84073" transform="rotate(-90 170.443 154.094)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 97" x="170.443" y="135.186" width="2.83607" height="2.84073" transform="rotate(-90 170.443 135.186)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 96" x="170.443" y="116.278" width="2.83607" height="2.84073" transform="rotate(-90 170.443 116.278)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 95" x="170.443" y="97.3717" width="2.83607" height="2.84073" transform="rotate(-90 170.443 97.3717)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 94" x="170.443" y="78.464" width="2.83607" height="2.84073" transform="rotate(-90 170.443 78.464)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 93" x="170.443" y="59.5569" width="2.83607" height="2.84073" transform="rotate(-90 170.443 59.5569)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 92" x="170.443" y="40.6494" width="2.83607" height="2.84073" transform="rotate(-90 170.443 40.6494)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 91" x="170.443" y="21.7423" width="2.83607" height="2.84073" transform="rotate(-90 170.443 21.7423)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 90" x="170.443" y="2.83618" width="2.83607" height="2.84073" transform="rotate(-90 170.443 2.83618)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 109" x="189.382" y="173" width="2.83607" height="2.84073" transform="rotate(-90 189.382 173)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 108" x="189.383" y="154.094" width="2.83607" height="2.84073" transform="rotate(-90 189.383 154.094)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 107" x="189.383" y="135.186" width="2.83607" height="2.84073" transform="rotate(-90 189.383 135.186)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 106" x="189.383" y="116.278" width="2.83607" height="2.84073" transform="rotate(-90 189.383 116.278)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 105" x="189.383" y="97.3717" width="2.83607" height="2.84073" transform="rotate(-90 189.383 97.3717)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 104" x="189.383" y="78.464" width="2.83607" height="2.84073" transform="rotate(-90 189.383 78.464)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 103" x="189.383" y="59.5569" width="2.83607" height="2.84073" transform="rotate(-90 189.383 59.5569)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 102" x="189.383" y="40.6494" width="2.83607" height="2.84073" transform="rotate(-90 189.383 40.6494)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 101" x="189.383" y="21.7423" width="2.83607" height="2.84073" transform="rotate(-90 189.383 21.7423)" fill="#C5C5C5"/>
+<rect id="Rectangle 3 Copy 100" x="189.383" y="2.83618" width="2.83607" height="2.84073" transform="rotate(-90 189.383 2.83618)" fill="#C5C5C5"/>
 </g>
 </svg>
